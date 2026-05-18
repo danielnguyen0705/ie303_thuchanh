@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Main {
+public class MainBT2 {
     public static void main(String[] args) {
         int boardWidth = 360;
         int boardHeight = 640;
