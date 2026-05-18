@@ -4,6 +4,7 @@
 - Thêm hiệu ứng thay đổi sản phẩm được hiển thị ở phía bên trái khi chọn vào một sản phẩm trong danh sách các sản phẩm ở phía bên phải (1 điểm).
 
 **Cấu trúc thư mục**
+```
 ├── src
 │   ├── Main.java               # File chạy chương trình
 │   ├── Product.java            # Class lưu thông tin sản phẩm
@@ -13,6 +14,7 @@
 │   ├── ImageUtil.java          # Class hỗ trợ load, scale và xử lý hình ảnh
 │   └── assets                  # Thư mục chứa hình ảnh sản phẩm
 └── README.md
+```
 
 **Cách compile và chạy chương trình**
 - Bước 1: Mở CMD tại thư mục chứa project
