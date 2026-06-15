@@ -2,6 +2,7 @@
 - Dựa trên bài thực hành 03, xây dựng CSDL (ở đây sử dụng SQLite) để lưu thông tin sản phẩm và truy vấn sản phẩm từ CSDL.
 
 **Cấu trúc thư mục**
+```
 ├── src
 │   ├── Main.java               # File chạy chương trình
 │   ├── Product.java            # Class lưu thông tin sản phẩm
@@ -13,6 +14,7 @@
 │   └── assets                  # Thư mục chứa hình ảnh sản phẩm
 ├── sqlite-jdbc-3.49.0.0.jar   # Driver kết nối CSDL SQLite
 └── README.md
+```
 
 **Cách compile và chạy chương trình**
 - Bước 1: Mở CMD tại thư mục chứa project Lab4
